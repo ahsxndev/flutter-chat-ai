@@ -35,11 +35,7 @@
 
 ## 🖼️ Screenshot
 
-<table>
-  <tr>
-    <td align="center"><img src="assets/screenshots/voiceverse_landscape.jpg" width="100%"/><br/>VoiceVerse AI – Chat + Voice Interface</td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/ahsxndev/flutter-chat-ai/main/assets/screenshot.png" width="100%"/>
 
 ---
 
