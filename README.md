@@ -1,6 +1,6 @@
 # 🗣️ VoiceVerse AI
 
-**VoiceVerse AI** is a sleek, real-time voice assistant app built with **Flutter**, enabling users to interact via **voice or text**. Whether you're speaking or typing, the app processes your input using OpenAI and delivers responses that are both displayed and spoken when applicable. It features animated UI elements, formatted markdown replies, and clean modular architecture — making it an ideal AI companion for modern mobile users.
+**VoiceVerse AI** is a sleek, real-time voice assistant app built with **Flutter**, enabling users to interact via **voice or text**. Whether you're speaking or typing, the app processes your input using Gemini and delivers responses that are both displayed and spoken when applicable. It features beautiful UI elements, formatted markdown replies, and clean modular architecture — making it an ideal AI companion for modern mobile users.
 
 ---
 
